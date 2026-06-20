@@ -1,5 +1,34 @@
 # 💫 About Me:
-I'm Suryakant from Delhi, currently pursuing a BBA in AI/ML from IILM University, Greater Noida.<br><br>In parallel with my studies, I am daily learning about AI, I watch daily AI news, learn which tool came int he market and I try to implement those tools in my daily life and also I have started learning about AI automations liek n8n to build advanced solutions.<br><br>I am currently working on my Vibe-coded apps. I am not a professional coder; I build apps using Vibe coding tools like Lovable. I enjoy solving problems with the help of AI.<br><br>I started Vibe coding a year ago and have created several Vibe-coded apps for myself and for my college clubs to address their fundamental issues. <br><br>Fun fact: I often lose myself in my work when I'm developing a product because I love the process so much!
+# Hi, I'm Surya Kant👋
+
+I'm a BBA in AI student passionate about building products that solve real-world problems.
+
+Most of my projects start with a simple observation: if a problem is repetitive, inefficient, or frustrating, there is probably a better way to solve it. I use AI, automation, and modern development tools to turn those ideas into working products.
+
+### What I'm interested in
+
+* AI Applications & AI Agents
+* Product Building
+* Automation & Workflows
+* SaaS & Startup Development
+* Productivity Tools
+* Real-World Problem Solving
+
+### What I'm doing
+
+* Building and launching AI-powered products
+* Learning by creating real projects
+* Experimenting with new AI tools and technologies
+* Sharing projects publicly and collecting user feedback
+* Exploring startup opportunities and product ideas
+
+### Current Goal
+
+To build useful products that create genuine value for people while continuously improving my skills as a builder and entrepreneur.
+
+### Let's Connect
+
+I'm always interested in connecting with builders, developers, founders, and people who enjoy creating useful things.
 
 
 ## 🌐 Socials:
